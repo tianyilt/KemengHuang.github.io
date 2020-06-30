@@ -182,11 +182,11 @@ widgets:
         # Author name
         author: Kemeng Huang
         # Author title
-        author_title: Computer Graphics
+        author_title: Computer Graphics & High Performance Computing 
         # Author's current location
         location: Hangzhou, China
         # URL or path to the avatar image
-        avatar: 
+        avatar: /img/favicon.svg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
