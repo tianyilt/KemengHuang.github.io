@@ -180,7 +180,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Kemeng Huang
+        author: Kemeng Huang/黄可蒙
         # Author title
         author_title: Computer Graphics & High Performance Computing 
         # Author's current location
@@ -188,7 +188,7 @@ widgets:
         # URL or path to the avatar image
         avatar: /img/hkm.jpg
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
