@@ -236,20 +236,20 @@ widgets:
         position: left
         type: recent_posts
     # Archives widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: archives
+    #    position: left
+    #    type: archives
     # Tags widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: tags
+    #    position: left
+    #    type: tags
     # Google FeedBurner email subscription widget configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: subscribe_email
+        #position: left
+        #type: subscribe_email
         # Hint text under the email input
         #description: 
         # Feedburner ID

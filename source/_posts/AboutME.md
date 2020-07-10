@@ -5,7 +5,7 @@ tags: HKM
 toc: false
 top: 100
 comments: false
-categories: Mysite
+categories: About me
 thumbnail: /img/back.jpg
 ---
 I graduated with honor from Zhejiang University of Technology (Jianxing class) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang at State Key Lab of CAD&CG (Zhejiang University). My undergrad thesis is on 
@@ -16,7 +16,7 @@ the design and development of real-time infrared simulation system for natural e
 - **B.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2013-2017   
 
 
-### **RESEARCH**
+### **RECENT RESEARCH**
 1. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
    **Kemeng Huang**, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
    *Graphical Models 2020.*    
@@ -34,6 +34,9 @@ the design and development of real-time infrared simulation system for natural e
    *Journal of Computer-Aided Design & Computer Graphics 2018.*   
    [[Paper]](http://www.jcad.cn/jcadcms/news/100000/2018/3020c5b85d084dbd9170d86d54a9fcd9.shtml)   
    <img src="/img/infrared.jpg" width="400px" />    
+
+### **INTERESTS**
+    painting, basketball, fishing...
 
 ### **CONTACT ME**
 KMHuang@stu.ecnu.edu.cn
