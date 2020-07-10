@@ -222,33 +222,34 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+            My Friend-Jinpeng Jiang: 'https://anakinjiang.github.io/'
+            My Academic Brother-Zipeng Zhao: 'https://zp-z.github.io/'
+            My Academic Brother-Jipeng Li: 'https://jipeng.li/'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: categories
+        #position: left
+        #type: categories
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: recent_posts
+        #position: left
+        #type: recent_posts
     # Archives widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: archives
+        #position: left
+        #type: archives
     # Tags widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: tags
+        #position: left
+        #type: tags
     # Google FeedBurner email subscription widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: subscribe_email
+        #position: left
+        #type: subscribe_email
         # Hint text under the email input
         description: 
         # Feedburner ID
