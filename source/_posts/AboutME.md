@@ -12,21 +12,22 @@ I graduated with honor from Zhejiang University of Technology (Jianxing class) i
 the design and development of real-time infrared simulation system for natural environment (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from East China Normal University in July 2020 and got my M.Sc. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on hybrid parallel framework for SPH algorithms.
 
 ### **EDUCATION**
-- **B.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2013-2017   
 - **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017-2020   
+- **B.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2013-2017   
+
 
 ### **RESEARCH**
 1. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
    **Kemeng Huang**, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
-   *Graphical Models, 2020.*    
-   [[Paper link]]
-   <img src="/images/casa_pc.jpg" width="350px" /> 
+   *Graphical Models 2020.*    
+   [Paper]
+   <img src="/ima/face.pdf" width="350px" /> 
 
 2. **A General Novel Parallel Framework for SPH-centric Algorithms**[J].   
    **Kemeng Huang**, Jiming Ruan, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
-   *I3D $\rightarrow$ Proceedings of the ACM on Computer Graphics and Interactive Techniques (PACM). 2019.*   
+   *Proceedings of the ACM on Computer Graphics and Interactive Techniques 2019 (I3D).*   
    [[Paper]](https://dl.acm.org/doi/10.1145/3321360)   
-   <img src="/images/PCI_new.png" width="350px" /> 
+   <img src="/img/PCI_new.pdf" width="350px" /> 
 
 ### **CONTACT ME**
 KMHuang@stu.ecnu.edu.cn
