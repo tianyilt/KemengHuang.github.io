@@ -6,7 +6,7 @@ toc: true
 top: 100
 comments: true
 categories: Mysite
-thumbnail: /images/home.jpg
+thumbnail: /img/back.jpg
 ---
 I graduated with honor from Zhejiang University of Technology (Jianxing class) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang at State Key Lab of CAD&CG (Zhejiang University). My undergrad thesis is on 
 the design and development of real-time infrared simulation system for natural environment (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from East China Normal University in July 2020 and got my M.Sc. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on hybrid parallel framework for SPH algorithms.
@@ -20,8 +20,8 @@ the design and development of real-time infrared simulation system for natural e
 1. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
    **Kemeng Huang**, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
    *Graphical Models 2020.*    
-   [Paper]
-   <img src="/ima/face.pdf" width="350px" /> 
+   [Coming soon]
+   <img src="/img/face.pdf" width="350px" /> 
 
 2. **A General Novel Parallel Framework for SPH-centric Algorithms**[J].   
    **Kemeng Huang**, Jiming Ruan, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
