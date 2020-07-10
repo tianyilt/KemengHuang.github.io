@@ -33,7 +33,7 @@ the design and development of real-time infrared simulation system for natural e
    Zhang Fan, Wang Tong, **Huang Kemeng**, Mao Jiaming, Li Meiling, Wang Zhangye.    
    *Journal of Computer-Aided Design & Computer Graphics 2018.*   
    [[Paper]](http://www.jcad.cn/jcadcms/news/100000/2018/3020c5b85d084dbd9170d86d54a9fcd9.shtml)   
-   <img src="/img/infraredb.jpg" width="600px" />    
+   <img src="/img/infrared.jpg" width="600px" />    
 
 ### **CONTACT ME**
 KMHuang@stu.ecnu.edu.cn
