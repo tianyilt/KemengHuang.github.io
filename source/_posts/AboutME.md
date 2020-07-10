@@ -21,13 +21,13 @@ the design and development of real-time infrared simulation system for natural e
    **Kemeng Huang**, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
    *Graphical Models 2020.*    
    [Coming soon]
-   <img src="/img/face.pdf" width="350px" /> 
+   <img src="/img/gmb.jpg" width="350px" /> 
 
 2. **A General Novel Parallel Framework for SPH-centric Algorithms**[J].   
    **Kemeng Huang**, Jiming Ruan, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
    *Proceedings of the ACM on Computer Graphics and Interactive Techniques 2019 (I3D).*   
    [[Paper]](https://dl.acm.org/doi/10.1145/3321360)   
-   <img src="/img/PCI_new.pdf" width="350px" /> 
+   <img src="/img/i3d.jpg" width="350px" /> 
 
 ### **CONTACT ME**
 KMHuang@stu.ecnu.edu.cn
