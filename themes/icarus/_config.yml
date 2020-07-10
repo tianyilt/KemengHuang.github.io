@@ -251,9 +251,9 @@ widgets:
         #position: left
         #type: subscribe_email
         # Hint text under the email input
-        description: 
+        #description: 
         # Feedburner ID
-        feedburner_id: ''
+        #feedburner_id: ''
     # Google AdSense unit configurations
     # 广告位，需要google ads的账号，注释掉了
     # -
