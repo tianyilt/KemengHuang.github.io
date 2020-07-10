@@ -27,7 +27,7 @@ the design and development of real-time infrared simulation system for natural e
    **Kemeng Huang**, Jiming Ruan, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
    *Proceedings of the ACM on Computer Graphics and Interactive Techniques 2019 (I3D).*   
    [[Paper]](https://dl.acm.org/doi/10.1145/3321360)   
-   <img src="/img/i3d.jpg" width="350px" /> 
+   <img src="/img/i3d.png" width="350px" /> 
 
 3. **One Improved Real-Time Infrared Simulation System Based on Unity3D**[J].   
    Zhang Fan, Wang Tong, **Huang Kemeng**, Mao Jiaming, Li Meiling, Wang Zhangye.    
