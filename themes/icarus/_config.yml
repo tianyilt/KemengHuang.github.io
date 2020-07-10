@@ -3,11 +3,11 @@ version: 3.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: /img/myTag.jpg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.svg
+    favicon: /img/TAG.jpg
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
@@ -74,7 +74,7 @@ navbar:
     # Naviagtion menu items
     menu:
         Home: /
-        Archives: /archives
+        #Archives: /archives
         Categories: /categories
         Tags: /tags
         # About: /about
@@ -243,8 +243,8 @@ widgets:
     # Tags widget configurations
     #-
         # Where should the widget be placed, left sidebar or right sidebar
-    #    position: left
-    #    type: tags
+        position: left
+        type: tags
     # Google FeedBurner email subscription widget configurations
     #-
         # Where should the widget be placed, left sidebar or right sidebar
