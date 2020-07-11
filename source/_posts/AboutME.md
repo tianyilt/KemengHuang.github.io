@@ -35,8 +35,14 @@ the design and development of real-time infrared simulation system for natural e
    [[Paper]](http://www.jcad.cn/jcadcms/news/100000/2018/3020c5b85d084dbd9170d86d54a9fcd9.shtml)   
    <img src="/img/infrared.jpg" width="400px" />    
 
+
+### **CONTESTS**
+- **China Post-Graduate Mathematical Contest in Modeling 2018**      national first prize   
+- **American Mathematical Contest in Modeling 2016**      Honorable Mention   
+- **China Undergraduate Mathematical Contest in Modeling 2015**      national first prize
+
 ### **INTERESTS**
-   painting, basketball, fishing...
+   painting, basketball, fishing, farming...
 
 ### **CONTACT ME**
 KMHuang@stu.ecnu.edu.cn
