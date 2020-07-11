@@ -44,19 +44,7 @@ module.exports = class extends Component {
                             <time class="level-item" dateTime={date_xml(page.date)} title={date_xml(page.date)}>{date(page.date)}</time>
                             {/* author */}
                             {page.author ? <span class="level-item"> {page.author} </span> : null}
-                            {/* Categories */}
-                            {page.categories && page.categories.length ? <span class="level-item">
-                                {(() => {
-                                    const categories = [];
-                                    page.categories.forEach((category, i) => {
-                                        categories.push(<a class="link-muted" href={url_for(category.path)}>{category.name}</a>);
-                                        if (i < page.categories.length - 1) {
-                                            categories.push(<span>&nbsp;/&nbsp;</span>);
-                                        }
-                                    });
-                                    return categories;
-                                })()}
-                            </span> : null}
+
                             {/* Read time */}
                             {article && article.readtime && article.readtime === true ? <span class="level-item">
                                 {(() => {
