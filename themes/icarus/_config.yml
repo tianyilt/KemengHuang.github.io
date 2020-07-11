@@ -180,7 +180,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Kemeng Huang/黄可蒙
+        author: Kemeng Huang(黄可蒙)
         # Author title
         author_title: Computer Graphics & Parallel Computing 
         # Author's current location
