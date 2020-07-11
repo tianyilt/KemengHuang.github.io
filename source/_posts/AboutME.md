@@ -38,9 +38,9 @@ the design and development of real-time infrared simulation system for natural e
 
 
 ### **CONTESTS**
-- **China Post-Graduate Mathematical Contest in Modeling 2018**,      national first prize   
+- **China Post-Graduate Mathematical Contest in Modeling 2018**,      National First Prize   
 - **American Mathematical Contest in Modeling 2016**,      Honorable Mention   
-- **China Undergraduate Mathematical Contest in Modeling 2015**,      national first prize
+- **China Undergraduate Mathematical Contest in Modeling 2015**,      National First Prize
 
 ### **INTERESTS**
    painting, basketball, fishing, farming...
