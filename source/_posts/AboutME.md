@@ -38,9 +38,9 @@ I graduated with honor from Zhejiang University of Technology (Jianxing class) i
 
 
 ### **CONTESTS**
-- **China Post-Graduate Mathematical Contest in Modeling 2018**,      National First Prize   
-- **American Mathematical Contest in Modeling 2016**,      Honorable Mention   
-- **China Undergraduate Mathematical Contest in Modeling 2015**,      National First Prize
+- **China Post-Graduate Mathematical Contest in Modeling 2018**, [National First Prize](/img/PCMCM.pdf)   
+- **American Mathematical Contest in Modeling 2016**,      [Honorable Mention](/img/AMCM.pdf)   
+- **China Undergraduate Mathematical Contest in Modeling 2015**,      [National First Prize](/img/UCMCM.pdf)
 
 ### **INTERESTS**
    painting, basketball, fishing, farming...
