@@ -34,7 +34,7 @@ class Profile extends Component {
                 <nav class="level">
                     <div class="level-item has-text-centered flex-shrink-1">
                         <div>
-                            <figure class="image is-256x256 mx-auto mb-2">
+                            <figure class="image is-1by1 mx-auto mb-2">
                                 <img class={'avatar' + (avatarRounded ? ' is-rounded' : '')} src={avatar} alt={author} />
                             </figure>
                             {author ? <p class="title is-size-4 is-block line-height-inherit">{author}</p> : null}
