@@ -113,8 +113,8 @@ article:
     readtime: true
 # Search plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
-search:
-    type: insight
+#search:
+    #type: insight
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
 # 评论功能，需要在评论工具官网注册账号并在这里配置插件
