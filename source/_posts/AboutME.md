@@ -13,7 +13,7 @@ the design and development of real-time infrared simulation system for natural e
 
 ### **EDUCATION**
 - **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017-2020   
-- **B.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2013-2017   
+- **B.Sc. in Software Engineering (computer graphics)**, Zhejiang University of Technology. 2013-2017   
 
 
 ### **RECENT RESEARCH**
