@@ -36,7 +36,7 @@ the design and development of real-time infrared simulation system for natural e
    <img src="/img/infrared.jpg" width="400px" />    
 
 ### **INTERESTS**
-    painting, basketball, fishing...
+   painting, basketball, fishing...
 
 ### **CONTACT ME**
 KMHuang@stu.ecnu.edu.cn
