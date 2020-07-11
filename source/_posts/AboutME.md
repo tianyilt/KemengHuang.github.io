@@ -10,10 +10,9 @@ thumbnail: /img/back.jpg
 ---
 I graduated with honor from Zhejiang University of Technology (Jianxing class) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang at State Key Lab of CAD&CG, Zhejiang University (2015-2017). My undergrad thesis is on [the design and development of real-time infrared simulation system for natural environment](/img/undergradT-hkm.pdf) (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from East China Normal University in July 2020 and got my M.Sc. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on [hybrid parallel framework for SPH algorithms](/img/postgradT-hkm.pdf).
 
-### **EXPERIENCE**
-- **Researcher (computer graphics)**, Koolab, Kujiale. 2020-now   
-- **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017-2020   
-- **B.Sc. in Software Engineering (computer graphics)**, Zhejiang University of Technology. 2013-2017   
+### **NEWS**
+- <font color=red face="黑体">I am looking for a phd offer.</font>
+
 
 
 ### **RECENT RESEARCH**
@@ -40,6 +39,11 @@ I graduated with honor from Zhejiang University of Technology (Jianxing class) i
 - **China Post-Graduate Mathematical Contest in Modeling 2018**, [National First Prize](/img/PCMCM.pdf)   
 - **American Mathematical Contest in Modeling 2016**,      [Honorable Mention](/img/AMCM.pdf)   
 - **China Undergraduate Mathematical Contest in Modeling 2015**,      [National First Prize](/img/UCMCM.pdf)
+
+### **EXPERIENCE**
+- **Researcher (computer graphics)**, Koolab, Kujiale. 2020-now   
+- **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017-2020   
+- **B.Sc. in Software Engineering (computer graphics)**, Zhejiang University of Technology. 2013-2017   
 
 ### **INTERESTS**
    painting, basketball, fishing, farming...
