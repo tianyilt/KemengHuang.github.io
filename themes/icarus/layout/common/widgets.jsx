@@ -30,11 +30,14 @@ function getColumnCount(widgets) {
     return [hasColumn(widgets, 'left'), hasColumn(widgets, 'right')].filter(v => !!v).length + 1;
 }
 
-function getColumnSizeClass(columnCount) {
+function getColumnSizeClass(columnCount, position) {
     switch (columnCount) {
         case 2:
             return 'is-4-tablet is-4-desktop is-4-widescreen';
         case 3:
+            if (position === 'right') {
+                return 'is-4-tablet is-4-desktop is-2-widescreen';
+            }
             return 'is-4-tablet is-4-desktop is-3-widescreen';
     }
     return '';
@@ -70,7 +73,7 @@ class Widgets extends Component {
         return <div class={classname({
             'column': true,
             ['column-' + position]: true,
-            [getColumnSizeClass(columnCount)]: true,
+            [getColumnSizeClass(columnCount, position)]: true,
             [getColumnVisibilityClass(columnCount, position)]: true,
             [getColumnOrderClass(position)]: true,
             'is-sticky': isColumnSticky(config, position)
