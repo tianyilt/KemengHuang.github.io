@@ -1,9 +1,8 @@
 ---
-title: About Me
+### **ABOUT ME**
+date: 2020-7-10 21:00:00
 tags: ME
-toc: false
 top: 100
-comments: false
 thumbnail: /img/back.jpg
 ---
 I graduated with honor from Zhejiang University of Technology (Jianxing class) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang at State Key Lab of CAD&CG (Zhejiang University). My undergrad thesis is on 
