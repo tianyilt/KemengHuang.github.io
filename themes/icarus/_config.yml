@@ -188,9 +188,9 @@ widgets:
         # URL or path to the avatar image
         avatar: /img/hkm.jpg
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
-        gravatar: 
+        gravatar: KMHuang@stu.ecnu.edu.cn
         # URL or path for the follow button
         follow_link: 'https://github.com/KemengHuang'
         # Links to be shown on the bottom of the profile widget
