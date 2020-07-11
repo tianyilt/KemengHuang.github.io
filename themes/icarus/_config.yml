@@ -244,8 +244,8 @@ widgets:
         # Names and URLs of the sites
         links:
             Friend：Jinpeng Jiang: 'https://anakinjiang.github.io/'
-            Academic Brother：Zipeng Zhao: 'https://zp-z.github.io/'
-            Academic Brother：Jipeng Li: 'https://jipeng.li/'
+            Friend：Zipeng Zhao: 'https://zp-z.github.io/'
+            Friend：Jipeng Li: 'https://jipeng.li/'
     # Google FeedBurner email subscription widget configurations
     #-
         # Where should the widget be placed, left sidebar or right sidebar
