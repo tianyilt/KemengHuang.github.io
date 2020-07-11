@@ -242,7 +242,7 @@ widgets:
         position: right
         type: links
         # Names and URLs of the sites
-        friend links:
+        links:
             Jinpeng Jiang: 'https://anakinjiang.github.io/'
             Zipeng Zhao: 'https://zp-z.github.io/'
             Jipeng Li: 'https://jipeng.li/'
