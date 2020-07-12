@@ -243,9 +243,11 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Jinpeng Jiang: 'https://anakinjiang.github.io/'
-            Zipeng Zhao: 'https://zp-z.github.io/'
-            Jipeng Li: 'https://jipeng.li/'
+            friend Jinpeng Jiang: 'https://anakinjiang.github.io/'
+            friend Zipeng Zhao: 'https://zp-z.github.io/'
+            friend Jipeng Li: 'https://jipeng.li/'
+            supvisor Changbo Wang: 'https://faculty.ecnu.edu.cn/_s16/wzb/main.psp'
+            co-supvisor Hong Qin: 'https://www.cs.stonybrook.edu/people/faculty/HongQin'
     # Google FeedBurner email subscription widget configurations
     #-
         # Where should the widget be placed, left sidebar or right sidebar
