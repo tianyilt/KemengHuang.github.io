@@ -11,8 +11,9 @@ thumbnail: /img/back.jpg
 I graduated with honor from Zhejiang University of Technology (Jianxing class) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang at State Key Lab of CAD&CG, Zhejiang University (2015-2017). My undergrad thesis is on [the design and development of real-time infrared simulation system for natural environment](/img/undergradT-hkm.pdf) (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from East China Normal University in July 2020 and got my M.Sc. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on [hybrid parallel framework for SPH algorithms](/img/postgradT-hkm.pdf).
 
 ### **<font color=red>NEWS</font>**
+- **<font color=red>(08/2020) A novel work of us is accepted by PG 2020 as CGF paper.</font>**
 - **<font color=red>(07/2020) I am looking for a phd offer in 2021. I was wondering if you could give me some advice.</font>**
-- **<font color=red>(06/2020) A novel work of us is submitted to PG 2020.</font>**
+
 
 
 
