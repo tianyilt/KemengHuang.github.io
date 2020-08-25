@@ -43,8 +43,10 @@ I graduated with honor from Zhejiang University of Technology (Jianxing class) i
 - **China Undergraduate Mathematical Contest in Modeling 2015**,      [National First Prize](/img/UCMCM.pdf)
 
 ### **EXPERIENCE**
-- **Researcher (computer graphics)**, Koolab, Kujiale. 2020-now   
+- **Researcher (computer graphics)**, Koolab, Kujiale. 2020-now 
+- **Intership in graphics algorithm (GPU optimization)**, Intel. 2019-2019   
 - **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017-2020   
+- **Intership in computer graphics (simulation)**, State Key Lab of CAD&CG, Zhejiang University. 2015-2017 
 - **B.Sc. in Software Engineering (computer graphics)**, Zhejiang University of Technology. 2013-2017   
 
 ### **INTERESTS**
