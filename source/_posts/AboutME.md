@@ -13,7 +13,7 @@ I graduated with honor from Zhejiang University of Technology (Jianxing class) i
 My current research interests include: Physical Simulation, High performance computing, Geometry Processing, Mechine Learning...
 
 ### **<font color=red>NEWS</font>**
-- **<font color=red>(07/2020) Hello World.</font>**
+- **<font color=red>Hello World.</font>**
 
 
 
