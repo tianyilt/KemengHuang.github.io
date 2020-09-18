@@ -18,7 +18,7 @@ I graduated with honor from Zhejiang University of Technology (Jianxing class) i
 
 ### **RECENT RESEARCH**
 1. **A Novel Plastic Phase-Field Method for Ductile Fracture with GPU Optimization**[J].  
-   **(Zipeng Zhao, Kemeng Huang)** [equal contribution], Chen Li, Changbo Wang, Hong Qin.    
+   Zipeng Zhao*, **Kemeng Huang*** (equal contribution), Chen Li, Changbo Wang, Hong Qin.    
    *Pacific Graphics 2020 (Computer Graphics Forum).* 
    [coming soon]
 
