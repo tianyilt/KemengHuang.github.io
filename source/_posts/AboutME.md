@@ -11,14 +11,18 @@ thumbnail: /img/back.jpg
 I graduated with honor from Zhejiang University of Technology (Jianxing class) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang (ZJU) at State Key Lab of CAD&CG, Zhejiang University (2015-2017). My undergrad thesis is on [the design and development of real-time infrared simulation system for natural environment](/img/undergradT-hkm.pdf) (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from East China Normal University in July 2020 and got my M.Sc. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on [hybrid parallel framework for SPH algorithms](/img/postgradT-hkm.pdf).
 
 ### **<font color=red>NEWS</font>**
-- **<font color=red>(08/2020) A novel work of us is conditional accepted by PG 2020 as CGF paper.</font>**
 - **<font color=red>(07/2020) I am looking for a phd offer in 2021. I was wondering if you could give me some advice.</font>**
 
 
 
 
 ### **RECENT RESEARCH**
-1. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
+4. **A Novel Plastic Phase-Field Method for Ductile Fracture with GPU Optimization**[J].  
+   **(Zipeng Zhao, Kemeng Huang)(joint first author)**, Chen Li, Changbo Wang, Hong Qin.    
+   *Pacific Graphics 2020 (Computer Graphics Forum).* 
+   [coming soon]
+
+3. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
    **Kemeng Huang**, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
    *Graphical Models 2020.*    
    [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S152407032030028X?via%3Dihub)
@@ -30,7 +34,7 @@ I graduated with honor from Zhejiang University of Technology (Jianxing class) i
    [[Paper]](https://dl.acm.org/doi/10.1145/3321360)   
    <img src="/img/i3d.jpg" width="500px" /> 
 
-3. **One Improved Real-Time Infrared Simulation System Based on Unity3D**[J].   
+1. **One Improved Real-Time Infrared Simulation System Based on Unity3D**[J].   
    Zhang Fan, Wang Tong, **Huang Kemeng**, Mao Jiaming, Li Meiling, Wang Zhangye.    
    *Journal of Computer-Aided Design & Computer Graphics 2018.*   
    [[Paper]](http://www.jcad.cn/jcadcms/news/100000/2018/3020c5b85d084dbd9170d86d54a9fcd9.shtml)   
