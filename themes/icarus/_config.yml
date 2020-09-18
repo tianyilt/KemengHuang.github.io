@@ -188,7 +188,7 @@ widgets:
         # URL or path to the avatar image
         avatar: /img/hkm.jpg
         # Whether show the rounded avatar image
-        avatar_rounded: true
+        avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
