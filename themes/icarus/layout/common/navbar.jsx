@@ -29,7 +29,7 @@ class Navbar extends Component {
         } = this.props;
 
         return <nav class="navbar navbar-main">
-            <div class="container" style={{ 'max-width': 'none' }}>
+            <div class="container">
                 <div class="navbar-brand justify-content-center">
                     <a class="navbar-item navbar-logo" href={siteUrl}>
                         {logo && logo.text ? logo.text : <img src={logoUrl} alt={siteTitle} height="28" />}
