@@ -50,7 +50,7 @@ My current research interests include: Physical Simulation, High performance com
 - **China Undergraduate Mathematical Contest in Modeling 2015**,      [National First Prize](/img/UCMCM.pdf)
 
 ### **EXPERIENCE**
-- **Junnior Researcher Engineer (computer graphics)**, Koolab, Kujiale. 2020-now 
+- **Junnior Research Engineer (computer graphics)**, Koolab, Kujiale. 2020-now 
 - **Intership in graphics algorithm (GPU optimization)**, Intel. 2019-2019   
 - **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017-2020   
 - **Intership in computer graphics (simulation)**, State Key Lab of CAD&CG, Zhejiang University. 2015-2017 
