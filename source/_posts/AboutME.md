@@ -23,6 +23,7 @@ My current research interests include: Physical Simulation, High performance com
    Zipeng Zhao\*, **Kemeng Huang\*** (equal contribution), Chen Li, Changbo Wang, Hong Qin.    
    *Pacific Graphics 2020 (Computer Graphics Forum).* 
    [coming soon]
+   <img src="/img/pgcgf.jpg" width="500px" /> 
 
 2. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
    **Kemeng Huang**, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
