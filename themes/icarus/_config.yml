@@ -243,13 +243,13 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Jinpeng Jiang: 'https://anakinjiang.github.io/'
-            Zipeng Zhao: 'https://zp-z.github.io/'
-            Jipeng Li: 'https://jipeng.li/'
             Prof. Changbo Wang: 'https://faculty.ecnu.edu.cn/_s16/wzb/main.psp'
             Prof. Hong Qin: 'https://www.cs.stonybrook.edu/people/faculty/HongQin'
-            Dr. Chen Li: 'https://www.researchgate.net/profile/Chen_Li75'
             A.Prof. Chenhui Li: 'https://faculty.ecnu.edu.cn/_s16/lch2/main.psp'
+            Dr. Chen Li: 'https://www.researchgate.net/profile/Chen_Li75'
+            Zipeng Zhao: 'https://zp-z.github.io/'
+            Jipeng Li: 'https://jipeng.li/'
+            Jinpeng Jiang: 'https://anakinjiang.github.io/'
     # Google FeedBurner email subscription widget configurations
     #-
         # Where should the widget be placed, left sidebar or right sidebar
