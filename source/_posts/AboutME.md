@@ -10,7 +10,7 @@ thumbnail: /img/back.jpg
 ---
 I graduated with honor from [Zhejiang University of Technology (Jianxing class)](http://www.jxxy.zjut.edu.cn/1652/list.htm) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang (ZJU) at State Key Lab of CAD&CG, Zhejiang University (2015-2017). My undergrad thesis is on [the design and development of real-time infrared simulation system for natural environment](/img/undergradT-hkm.pdf) (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from [East China Normal University](https://www.ecnu.edu.cn/single/main.htm?page=ecnu) in July 2020 and got my M.Sc. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on [hybrid parallel framework for SPH algorithms](/img/postgradT-hkm.pdf).
 
-My current research interests include: Physical Simulation, High performance computing, Physical based rendering, Geometry Processing, Machine Learning...
+My current research interests include: **Physical Simulation, High performance computing,** Physical based rendering, Geometry Processing, Machine Learning...
 
 ### **<font color=red>NEWS</font>**
 - **<font color=red>Hello World.</font>**
