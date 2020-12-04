@@ -21,25 +21,25 @@ My current research interests include: Physical Simulation, High performance com
 ### **RECENT RESEARCH**
 1. **A Novel Plastic Phase-Field Method for Ductile Fracture with GPU Optimization**[J].  
    Zipeng Zhao\*, **Kemeng Huang\*** (equal contribution), Chen Li, Changbo Wang, Hong Qin.    
-   *Pacific Graphics 2020 (Computer Graphics Forum).* 
+   *Computer Graphics Forum, 2020 (PG 2020).* 
    [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14130)
    <img src="/img/pgcgf.jpg" width="500px" /> 
 
 2. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
    **Kemeng Huang**, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
-   *Graphical Models 2020.*    
+   *Graphical Models, 2020.*    
    [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S152407032030028X?via%3Dihub)
    <img src="/img/gmb.jpg" width="500px" /> 
 
 3. **A General Novel Parallel Framework for SPH-centric Algorithms**[J].   
    **Kemeng Huang**, Jiming Ruan, Zipeng Zhao, Chen Li, Changbo Wang, Hong Qin.    
-   *Proceedings of the ACM on Computer Graphics and Interactive Techniques 2019 (I3D).*   
+   *Proceedings of the ACM on Computer Graphics and Interactive Techniques, 2019 (I3D 2019).*   
    [[Paper]](https://dl.acm.org/doi/10.1145/3321360)   
    <img src="/img/i3d.jpg" width="500px" /> 
 
 4. **One Improved Real-Time Infrared Simulation System Based on Unity3D**[J].   
    Zhang Fan, Wang Tong, **Huang Kemeng**, Mao Jiaming, Li Meiling, Wang Zhangye.    
-   *Journal of Computer-Aided Design & Computer Graphics 2018.*   
+   *Journal of Computer-Aided Design & Computer Graphics, 2018.*   
    [[Paper]](http://www.jcad.cn/jcadcms/news/100000/2018/3020c5b85d084dbd9170d86d54a9fcd9.shtml)   
    <img src="/img/infrared.jpg" width="400px" />    
 
