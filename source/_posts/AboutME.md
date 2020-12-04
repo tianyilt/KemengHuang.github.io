@@ -22,7 +22,7 @@ My current research interests include: Physical Simulation, High performance com
 1. **A Novel Plastic Phase-Field Method for Ductile Fracture with GPU Optimization**[J].  
    Zipeng Zhao\*, **Kemeng Huang\*** (equal contribution), Chen Li, Changbo Wang, Hong Qin.    
    *Pacific Graphics 2020 (Computer Graphics Forum).* 
-   [coming soon]
+   [[Paper]](https://onlinelibrary.wiley.com/doi/10.1111/cgf.14130)
    <img src="/img/pgcgf.jpg" width="500px" /> 
 
 2. **Novel Hierarchical Strategies for SPH-centric Algorithms on GPGPU**[J].  
