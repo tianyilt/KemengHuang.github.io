@@ -51,9 +51,9 @@ My current research interests include: **Physical Simulation, High performance c
 
 ### **EXPERIENCE**
 - **Junior Research Engineer (computer graphics)**, Koolab, Kujiale. 2020.8-2021.1 
-- **Intership in graphics algorithm (GPU optimization)**, Intel. 2019.3-2019.8   
+- **Internship in graphics algorithm (GPU optimization)**, Intel. 2019.3-2019.8   
 - **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017-2020   
-- **Intership in computer graphics (simulation)**, State Key Lab of CAD&CG, Zhejiang University. 2015-2017 
+- **Internship in computer graphics (simulation)**, State Key Lab of CAD&CG, Zhejiang University. 2015-2017 
 - **B.Sc. in Software Engineering (computer graphics)**, Zhejiang University of Technology. 2013-2017   
 
 ### **INTERESTS**
