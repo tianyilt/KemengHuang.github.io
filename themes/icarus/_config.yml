@@ -184,7 +184,7 @@ widgets:
         # Author title
         author_title: Computer Graphics & Parallel Computing 
         # Author's current location
-        location: Hangzhou, China
+        location: HongKong, China
         # URL or path to the avatar image
         avatar: /img/hkm.jpg
         # Whether show the rounded avatar image
@@ -243,6 +243,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
+            #Prof. Taku Komura: 'https://www.cs.hku.hk/index.php/people/academic-staff/taku'
             Prof. Changbo Wang: 'https://faculty.ecnu.edu.cn/_s16/wzb/main.psp'
             Prof. Hong Qin: 'https://www.cs.stonybrook.edu/people/faculty/HongQin'
             A.Prof. Chenhui Li: 'https://faculty.ecnu.edu.cn/_s16/lch2/main.psp'
