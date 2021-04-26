@@ -250,7 +250,7 @@ widgets:
             Dr. Chen Li: 'https://www.researchgate.net/profile/Chen_Li75'
             Zipeng Zhao: 'https://zp-z.github.io/'
             Jipeng Li: 'https://jipeng.li/'
-            Jinpeng Jiang: 'https://anakinjiang.github.io/'
+            #Jinpeng Jiang: 'https://anakinjiang.github.io/'
     # Google FeedBurner email subscription widget configurations
     #-
         # Where should the widget be placed, left sidebar or right sidebar
