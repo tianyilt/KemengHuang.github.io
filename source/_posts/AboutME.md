@@ -13,7 +13,7 @@ I graduated with honor from [Zhejiang University of Technology (Jianxing class)]
 My current research interests include: **Physical Simulation, High performance computing, Geometry Processing,** Physical based rendering, Machine Learning...
 
 ### **<font color=red>NEWS</font>**
-- **2021.9 - <font color=red>I receipt a full-time Phd offer from Hong Kong University, and I will start this jounedy in 2022.9</font>**
+- **2021.9 - <font color=red>I receipt a full-time Phd offer from Hong Kong University, and I will start this journey in 2022.9</font>**
 
 
 ### **RECENT RESEARCH**
