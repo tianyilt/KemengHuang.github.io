@@ -243,7 +243,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            #Prof. Taku Komura: 'https://www.cs.hku.hk/index.php/people/academic-staff/taku'
+            Prof. Taku Komura: 'https://www.cs.hku.hk/index.php/people/academic-staff/taku'
             Prof. Changbo Wang: 'https://faculty.ecnu.edu.cn/_s16/wzb/main.psp'
             Prof. Hong Qin: 'https://www.cs.stonybrook.edu/people/faculty/HongQin'
             A.Prof. Chenhui Li: 'http://chenhui.li/'
