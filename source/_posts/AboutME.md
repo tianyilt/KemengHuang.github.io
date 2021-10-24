@@ -13,7 +13,7 @@ I graduated with honor from [Zhejiang University of Technology (Jianxing class)]
 My current research interests include: **Physical Simulation, High performance computing, Geometry Processing,** Physical based rendering, Machine Learning ...
 
 ### **<font color=red>NEWS</font>**
-- **2021.10 - <font color=red>I receipt a full-time Phd offer from Computer Science Department, Hong Kong University, and my supervisors are Professor Taku Komura (primary) and Professor Wenping Wang (co-supervisor). Great Thanks for Taku's help!</font>**
+- **2021 - <font color=red>I receipt a full-time Phd offer from Computer Science Department, Hong Kong University, and my supervisors are Professor Taku Komura (primary) and Professor Wenping Wang (co-supervisor). Great Thanks for Taku's help!</font>**
 
 
 ### **RECENT RESEARCH**
