@@ -8,7 +8,7 @@ comments: false
 categories: about me
 thumbnail: /img/back.jpg
 ---
-I graduated with honor from [Zhejiang University of Technology (Jianxing class)](http://www.jxxy.zjut.edu.cn/1652/list.htm) in July 2017 and got my B.Sc. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang (ZJU) at State Key Lab of CAD&CG, Zhejiang University (2015-2017). My undergrad thesis is on [the design and development of real-time infrared simulation system for natural environment](/img/undergradT-hkm.pdf) (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from [East China Normal University](https://www.ecnu.edu.cn/wzcd/xxgk/xqjj.htm) in July 2020 and got my M.Sc. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on [hybrid parallel framework for SPH algorithms](/img/postgradT-hkm.pdf). I currently work with Professor Taku Komura (Hong Kong Unversity) and Doctor Chitalu Floyd (Edinburgh University) on physical simulation and geometry processing.
+I graduated with honor from [Zhejiang University of Technology (Jianxing class)](http://www.jxxy.zjut.edu.cn/1652/list.htm) in July 2017 and got my B.Eng. in Software Engineering here. I worked on computer graphics during my internship with associate professor Zhangye Wang (ZJU) at State Key Lab of CAD&CG, Zhejiang University (2015-2017). My undergrad thesis is on [the design and development of real-time infrared simulation system for natural environment](/img/undergradT-hkm.pdf) (Journal of Computer-Aided Design & Computer Graphics). I graduated with honor from [East China Normal University](https://www.ecnu.edu.cn/wzcd/xxgk/xqjj.htm) in July 2020 and got my M.Phi. in Software Engineering here. I worked on computer graphics and high performance computing with professor Changbo Wang (ECNU) and professor Hong Qin (Stony Brook University, New York). My master thesis is on [hybrid parallel framework for SPH algorithms](/img/postgradT-hkm.pdf). I currently work with Professor Taku Komura (Hong Kong Unversity) and Doctor Chitalu Floyd (Edinburgh University) on physical simulation and geometry processing.
 
 My current research interests include: **Physical Simulation, High performance computing, Geometry Processing,** Physical based rendering, Machine Learning ...
 
@@ -49,12 +49,12 @@ My current research interests include: **Physical Simulation, High performance c
 - **China Undergraduate Mathematical Contest in Modeling 2015**,      [National First Prize](/img/UCMCM.pdf)
 
 ### **EXPERIENCES**
-- **Research Assistant (computer graphics)**, Hong Kong University. 2021.6-2022.6 
+- **Research Assistant (computer graphics)**, Hong Kong University & Centre for Transformative Garment Production. 2021.6-2022.6 
 - **Research Engineer (computer graphics)**, Koolab, Kujiale. 2020.8-2021.1 
 - **Internship in graphics algorithm (GPU optimization)**, Intel. 2019.3-2019.8   
-- **M.Sc. in Software Engineering (computer graphics)**, East China Normal University. 2017.9-2020.7   
+- **M.Phi. in Software Engineering (computer graphics)**, East China Normal University. 2017.9-2020.7   
 - **Internship in computer graphics (simulation)**, State Key Lab of CAD&CG, Zhejiang University. 2015.7-2017.5 
-- **B.Sc. in Software Engineering (computer graphics)**, Zhejiang University of Technology. 2013.9-2017.7   
+- **B.Eng. in Software Engineering (computer graphics)**, Zhejiang University of Technology. 2013.9-2017.7   
 
 ### **INTERESTS**
    painting, basketball, fishing, farming...
